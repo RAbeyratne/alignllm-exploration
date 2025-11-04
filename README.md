@@ -11,6 +11,9 @@ LLMs-as-Judges, Case-alignment, Q&A, Embeddings, Explainable Artificial Intellig
 - `code/`: This directory contains the codebase for implementing / evaluating the metrics.
 - `README.md`: This file provides an overview of the repository.
 
+##
+- ILRAlign and WILRAlign package (Case alignment): https://pypi.org/project/alignllm-case-alignment-package/
+
 ## Datasets
 
 - ALQA master datset: https://huggingface.co/datasets/Ramitha/alqa-master-40
